@@ -2,6 +2,10 @@
 
 This is a simple Vehicle Rental System implemented in C++. Users can rent cars, bikes, and trucks and view their rental history. The code is organized into classes and provides an example of object-oriented programming principles.
 
+## Class Diagram:
+![image](https://github.com/kshitij0318/pp_project/assets/141626509/660d0cef-7f53-4ace-ba78-12856fbe1770)
+
+
 ## How to Use
 
 1. **Clone the Repository:**
